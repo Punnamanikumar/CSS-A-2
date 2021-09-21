@@ -1,0 +1,24 @@
+<div>
+        <form action="" class="a" align="center">
+            <h3>PLEASE REGISTER HERE</h3>
+            <hr><br>
+            <label for="text">First name</label> <br>
+            <input type="text" name="Fname" id="Fname" value="enter your first name"><br><br>
+            <label for="text">First name</label><br>
+            <input type="text" name="Fname" id="Fname" value="enter your last name"><br><br>
+            <label for="text">Your age</label><br>
+            <input type="number" name="age" id="age" value="enter your age"><br><br>
+            <label for="email">Email</label><br>
+            <input type="text" name="email" id="email" value="my email"><br><br>
+            <label for="date">Date of Birth</label><br>
+            <input type="date" name="date" id="date" value=""><br><br>
+            <label for="text">Are you more than one Person?</label><br>
+            <input type="checkbox"><br><br>
+            <label for="text">DO you have cough or cold?</label><br>
+            <input type="checkbox"><br><br>
+            <label for="submit">Click Here</label><br>
+            <input type="submit" value="Submit Here"><br><br>
+            <label for="text">Reset</label><br>
+            <input type="submit" value="Reset"><br><br>
+        </form>
+    </div>

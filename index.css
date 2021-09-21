@@ -1,0 +1,141 @@
+body {
+    border: 5px solid rgb(8, 173, 8);
+    margin: auto;
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-image: url("./img/photo-1585518419759-7fe2e0fbf8a6.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+
+/* .yu {
+    border: 3px solid greenyellow;
+    margin-block-end: auto;
+    height: 100%;
+} */
+
+.ma {
+    margin-top: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: black;
+    color: white;
+    border: 6px solid red;
+}
+
+.parent {
+    display: flex;
+    /* border: 5px solid rgb(3, 255, 3); */
+    justify-content: space-between;
+}
+
+.q {
+    border-radius: 32px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.w {
+    border-radius: 45px;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    padding-top: 15px;
+}
+
+.e {
+    border-radius: 32px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.a {
+    border: 4px dashed orangered;
+    margin: 5% 40% 0% 40%;
+    color: palevioletred;
+    background-color: whitesmoke;
+    padding-bottom: 50px;
+}
+
+.g {
+    font-size: larger;
+    border-radius: 45px;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    padding-top: 10px;
+    margin-left: 39%;
+    margin-right: 39%;
+}
+
+.p1 {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap
+}
+
+.ty {
+    border: 3px solid green;
+    color: blue;
+    background-color: rgb(0, 255, 234);
+    border-radius: 32px;
+    /* padding-left: 20px; */
+    /* padding-right: 20px; */
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 25%;
+    margin-bottom: 5%;
+}
+
+.n {
+    color: rgb(13, 4, 87);
+}
+
+.v1 {
+    display: inline;
+}
+
+.ui {
+    /* float: left; */
+    /* display: flex;
+    flex-direction: column; */
+    justify-content: space-evenly;
+    color: black;
+    text-decoration: underline;
+    background-color: rgb(1, 90, 48);
+    border: 5px solid grey;
+    border-radius: 50%;
+    height: 317px;
+    width: 317px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin: 15% 75% 0% 5%;
+    margin-top: -500px;
+}
+
+.c1 {
+    padding-top: 17px;
+    padding-right: 10px;
+    padding-left: 73px;
+    padding-bottom: 10px;
+}
+
+
+/* .c2 {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+} */
+
+.c3 {
+    padding-top: -14px;
+    padding-right: 10px;
+    padding-left: 45px;
+    padding-bottom: 199px;
+}
